@@ -55,7 +55,6 @@ struct ContentView: View {
                         }
                     }
                 } else {
-                    // Search Results
                     List {
                         ForEach(viewModel.filteredMovies, id: \.title) { movie in
                             NavigationLink(destination: MovieDetailView(movie: movie)) {
