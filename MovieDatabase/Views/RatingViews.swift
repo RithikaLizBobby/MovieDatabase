@@ -1,10 +1,3 @@
-//
-//  RatingViews.swift
-//  MovieDatabase
-//
-//  Created by RithikaP10 on 25/10/24.
-//
-
 import SwiftUI
 
 struct RatingPicker: View {
