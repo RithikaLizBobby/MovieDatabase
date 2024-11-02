@@ -22,6 +22,6 @@ ViewModels
 Views
 
 Attaching screenshots of the app:-
-![Simulator Screenshot - iPhone 15 Pro - 2024-10-26 at 00 47 54](https://github.com/user-attachments/assets/f939fade-6dd8-4b84-9e7f-8523a4bd79c7)
-![Simulator Screenshot - iPhone 15 Pro - 2024-10-26 at 00 47 34](https://github.com/user-attachments/assets/5f9adaed-8b54-4ad7-9c1a-0c0107a944fd)
-![Simulator Screenshot - iPhone 15 Pro - 2024-10-26 at 00 47 17](https://github.com/user-attachments/assets/d0bf0388-9d2c-4bcc-9614-444319a47de5)
+![Simulator Screenshot - iPhone 15 Pro - 2024-11-02 at 15 07 36](https://github.com/user-attachments/assets/9fd28f13-fa8a-4ddb-af9e-e864d8ba4948)
+![Simulator Screenshot - iPhone 15 Pro - 2024-10-26 at 00 47 34](https://github.com/user-attachments/assets/cb41d632-600d-4c5e-8ab5-662dfc22c1ff)
+![Simulator Screenshot - iPhone 15 Pro - 2024-10-26 at 00 47 54](https://github.com/user-attachments/assets/c6047547-9e7a-415b-b511-bcb9c231b5a1)
